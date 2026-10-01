@@ -23,7 +23,7 @@ People asked how it was set up, so this is the folder as both runs got it, minus
 > Stop and ask me before anything that goes public.
 
 The prompt also tells the agent to read a skill of mine, `seekable-motion` (a frame-by-frame render harness for
-Playwright). It isn't in this repo [check: publish it or drop the line]. Without it the agent has to build its own
+Playwright). It isn't in this repo. Without it the agent has to build its own
 seek-and-capture loop, which both models can do.
 
 The music section and the shot table are timed to my track (drop at 22.65 s, silence at 37.95–41.08 s). With a

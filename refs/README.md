@@ -5,9 +5,9 @@
 >
 > | file | source |
 > |---|---|
-> | `muse-meta.mp4` | Meta Muse launch film, from X [link] |
-> | `grok-bot.mp4` | xAI Grok Bot on Android launch video, from X [link] |
-> | `krea-agents.mp4` | Krea agents beta launch video, from X [link] |
+> | `muse-meta.mp4` | Meta Muse launch film, posted on X (link not saved) |
+> | `grok-bot.mp4` | xAI Grok Bot on Android launch video, posted on X (link not saved) |
+> | `krea-agents.mp4` | Krea agents beta launch video, posted on X (link not saved) |
 > | `official-teaser.mp4` | OpenAI, "Your dot is ready to meet you": https://x.com/OpenAI/status/2104980481876070819 |
 > | `official-film.mp4` | OpenAI dots launch film: https://x.com/OpenAI/status/2104984504133918973 |
 >
