@@ -1,0 +1,37 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# licensed or third-party media that the kit expects but this repo does not ship
+music.wav
+music-src.aac
+vo/guide-mix.wav
+sfx/*.wav
+sfx/*.mp3
+refs/*.mp4
+research/official-frames/*.png
+research/official-frames/*.jpg
+research/official-page/*.png
+research/official-page/*.svg
+research/ui-refs/*.png
+research/ui-refs/*.jpg
+
+# run output and renders
+out/
+tmp/
+assets/
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.aac
+*.mp3
+*.flac
+
+# dependencies and caches
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
