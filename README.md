@@ -103,7 +103,7 @@ The numbers, counted from the session logs:
 |---|---|---|
 | Active time (no waiting for me; renders as below) | 1 h 24 min, plus ~110 min blocked on full renders | 3 h 23 min, renders ran in the background while it worked (lower bound without them: 2 h 45 min) |
 | Tokens | 85.69 M | 51.97 M (94% cached) |
-| API cost | $29.06 (incl. $8.27 for Opus 5.5 critic subagents) | $13.74 |
+| API cost | $29.06 | $13.74 |
 | Builds of the film | 8 | 1 draft + 3 finals |
 
 Caveats: one run per model and one judge (me). Both runs hit their plan limits mid-way, and Sol's last round of fixes
