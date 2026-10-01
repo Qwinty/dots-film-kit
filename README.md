@@ -1,3 +1,12 @@
+<p align="center"><img src="docs/banner.png" alt="dots film kit: one folder, two coding agents, the same launch film" width="100%"></p>
+
+<p align="center">
+  <a href="https://x.com/QwintyM"><img src="https://img.shields.io/badge/made%20by-%40QwintyM-0B1020?logo=x&logoColor=white" alt="Made by @QwintyM"></a>
+  <a href="https://x.com/QwintyM/status/2105314602322174143"><img src="https://img.shields.io/badge/the%20films-on%20X-574B8F" alt="The films on X"></a>
+  <a href="https://x.com/QwintyM/status/2105669571650699433"><img src="https://img.shields.io/badge/the%20setup-on%20X-574B8F" alt="The setup on X"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-A9A496" alt="MIT"></a>
+</p>
+
 # dots film kit
 
 The starting folder I gave two coding agents to make the same 60 s launch film for OpenAI's dots: one run with
@@ -147,3 +156,7 @@ ran on effort high, not xhigh.
 MIT for my code and text (the prompt, the READMEs, the research notes, `tools/`, the voiceover files): see
 [LICENSE](LICENSE). The third-party media the runs used (music, SFX, reference films, screenshots) are not in this
 repo and are not covered by it. dots and the dots characters belong to OpenAI. This kit is not affiliated with OpenAI.
+
+---
+
+Made by Maxim, [@QwintyM](https://x.com/QwintyM) on X · [qwinty.my](https://qwinty.my). I make films in code with AI agents and compare the models. If you run this kit with another model, tag me, I'd like to see it.
